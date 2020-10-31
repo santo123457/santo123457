@@ -46,7 +46,7 @@
 
 <img width="550" alt="Md.Santo's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=santo123457&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=WebKawsar&card_width=550)](https://github.com/santo123457/Info)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=santo123457&card_width=550)](https://github.com/santo123457)
 
 [programming]: https://www.programming-hero.com/
 [website]: https://creative-agency-bc778.firebaseapp.com/
