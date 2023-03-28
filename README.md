@@ -1,6 +1,6 @@
 ### Hi there, I'm Md. Santo -  [Santo's Website][website] 👋
 
-## I'm a 😍😍 React Lover 😍😍!
+## I'm an Expert MERN Stack Developer !
  - 🔭 I’m currently learning [Programming Hero][programming]!
  - 👯 I’m looking to collaborate on any interesting project
  - 🤔 I’m looking for help with Job
