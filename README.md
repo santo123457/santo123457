@@ -5,7 +5,7 @@
  - 👯 I’m looking to collaborate on any interesting project
  - 🤔 I’m looking for help with Job
  - 📫 How to reach me: mdsanto123457@gmail.com
- - 🥅 2020 Goals: Learn React, Node, MongoDB, Express, Mongoose, JavaScript, WordPres-Theme Customization
+ - 🥅 2023 Goals: Learn TypeScript, next.js, prisma
  - ⚡ I love to reach people message of Islam
  - Also I am a SEO and Affiliate Marketing Lover
 
